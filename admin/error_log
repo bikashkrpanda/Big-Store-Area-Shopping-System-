@@ -1,0 +1,11 @@
+[09-Apr-2014 10:51:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopping/public_html/admin/index.php:37) in /home/shopping/public_html/admin/index.php on line 53
+[09-Apr-2014 10:52:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopping/public_html/admin/index.php:37) in /home/shopping/public_html/admin/index.php on line 53
+[15-Apr-2014 10:05:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/shopping/public_html/admin/del.php:3) in /home/shopping/public_html/admin/del.php on line 10
+[17-Aug-2017 23:06:32 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mworldlu_bigS'@'localhost' (using password: YES) in /home/mworldlucknow/public_html/Bbigstore/admin/dbcon.php on line 5
+[17-Aug-2017 23:06:32 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/mworldlucknow/public_html/Bbigstore/admin/dbcon.php on line 6
+[17-Aug-2017 23:06:32 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mworldlucknow/public_html/Bbigstore/admin/rreg.php on line 152
+[17-Aug-2017 23:06:32 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mworldlucknow/public_html/Bbigstore/admin/rreg.php on line 153
+[17-Aug-2017 23:06:47 Asia/Kolkata] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'mworldlu_bigS'@'localhost' (using password: YES) in /home/mworldlucknow/public_html/Bbigstore/admin/dbcon.php on line 5
+[17-Aug-2017 23:06:47 Asia/Kolkata] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, boolean given in /home/mworldlucknow/public_html/Bbigstore/admin/dbcon.php on line 6
+[17-Aug-2017 23:06:47 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/mworldlucknow/public_html/Bbigstore/admin/newINDEX.php on line 98
+[17-Aug-2017 23:06:47 Asia/Kolkata] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/mworldlucknow/public_html/Bbigstore/admin/newINDEX.php on line 99
